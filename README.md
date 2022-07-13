@@ -7,7 +7,7 @@
 
 ![green_stocks_performance_2018.png](green_stocks_performance_2018.png)
 
-### As the images above demonstrate, the stocks performed better overall in 2017 than they did in 2018. Only two stocks, tickers "ENPH" and "RUN," had a positive returns in both year. After conducting our inital analysis, we refactored our code to help the script run faster and create a framework that Steven could use to analyze larger data sets with more stocks. Our refactoring was successfull, and the images below show a 348% increase in run time speed for the 2017 stocks, and a 332% increase in run time speeds for the 2018 stocks. 
+### As the images above demonstrate, the stocks performed better overall in 2017 than they did in 2018. Only two stocks, tickers "ENPH" and "RUN," had a positive returns in both year. After conducting our inital analysis, we refactored our code to help the script run faster and create a framework that Steven could use to analyze larger data sets with more stocks. Our refactoring was successfull, and the images below show a 348% increase in run time speed for the 2017 stocks, and a 332% increase in run time speeds for the 2018 stocks. The second image in each set of 2017 and 2018 images is from our refactored script. 
 
 ![green_stocks_2017.png](green_stocks_2017.png)
 
